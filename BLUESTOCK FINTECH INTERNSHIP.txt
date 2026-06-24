@@ -1,0 +1,29 @@
+BLUESTOCK FINTECH INTERNSHIP
+Capstone Project: Mutual Fund Analytics
+
+Intern Name: Golla Pandu
+GitHub Username: pandu162-ai
+Project Name: Mutual Fund Analytics
+
+Day 1 – Project Setup + Data Ingestion (ETL)
+
+Tasks Completed:
+✓ Created project folder structure
+✓ Initialized Git repository and pushed to GitHub
+✓ Installed dependencies
+✓ Loaded all 10 CSV datasets
+✓ Printed shapes, dtypes and sample rows
+✓ Fetched live NAV data
+✓ Validated AMFI codes
+
+Validation Result:
+Fund Master Codes: 40
+NAV History Codes: 40
+Missing Codes: 0
+All AMFI codes exist in nav_history.
+
+GitHub Repository:
+https://github.com/pandu162-ai/Mutual_Fund_Analytics
+
+Git Commit:
+Day 1: Data ingestion complete
